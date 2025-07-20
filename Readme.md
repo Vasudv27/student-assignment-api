@@ -94,20 +94,20 @@ Screenshots for testing on Postman
 
 Retrieving all data (GET)
 
-![](Aspose.Words.d6fe543b-82cb-4cf6-be8a-f82761e3105d.001.png) 
+![](assets/get.png) 
 
 Inserting new data (POST)
 
-![](Aspose.Words.d6fe543b-82cb-4cf6-be8a-f82761e3105d.002.png)
+![](assets/post.png)
 
 Updating the data (PATCH)
 
-![](Aspose.Words.d6fe543b-82cb-4cf6-be8a-f82761e3105d.003.png)
+![](assets/update.png)
 
 Deleting Data(DELETE)
 
-![](Aspose.Words.d6fe543b-82cb-4cf6-be8a-f82761e3105d.004.png)
+![](assets/delete.png)
 
 Admin Page 
 
-![](Aspose.Words.d6fe543b-82cb-4cf6-be8a-f82761e3105d.005.png)
+![](assets/admin_page.png)
